@@ -1,2 +1,2 @@
-# DeepLearningFromScratch
+# DeepLearning
 Learning the AI with book
